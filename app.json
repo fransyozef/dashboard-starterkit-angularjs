@@ -1,6 +1,6 @@
 {
-    "name": "angularjs-template",
-    "description": "A starter project for AngularJS based on John Papa's style guide",
+    "name": "angularjs-dashboard-starterkit",
+    "description": "AngularJS Dashboard Starterkit",
     "keywords": [
         "AngularJS",
         "angular",
@@ -12,7 +12,7 @@
         "node",
         "express"
     ],
-    "repository": "https://github.com/pamigomp/angularjs-template",
+    "repository": "https://github.com/fransyozef/dashboard-starterkit-angularjs",
     "success_url": "/",
     "addons": []
 }
