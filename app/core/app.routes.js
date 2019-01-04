@@ -25,7 +25,7 @@
                     'header': {
                         templateUrl: 'core/navigation/headerView.html',
                         controller: 'HeaderController',
-                        controllerAs: 'headerController'
+                        controllerAs: 'headerController',
                     },
                     'menu': {
                         templateUrl: 'core/navigation/menuView.html',

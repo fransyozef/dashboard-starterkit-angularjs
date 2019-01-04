@@ -14,13 +14,15 @@
         <link rel="stylesheet" href="bower_components/jquery-ui/themes/smoothness/jquery-ui.css">
         <link rel="stylesheet" href="assets/css/main.css">
         <link rel="stylesheet" href="assets/css/animate.css">
+
+        <link rel="stylesheet" href="core/navigation/header.css">
+
     </head>
     <body data-ng-controller="IndexController as indexController">
         
         <div class="container">
             <header data-ui-view="header"></header>
-            <nav data-ui-view="menu" role="navigation"></nav>
-            <section data-ui-view="content"></section>
+            <section data-ui-view="content" style="padding-top:60px;padding-bottom:60px;"></section>
             <footer data-ui-view="footer"></footer>
         </div>
 

@@ -38,6 +38,7 @@
     "protractor": "grunt protractor"
   },
   "dependencies": {
+    "bower": "^1.7.9",
     "express": "^4.14.0"
   },
   "devDependencies": {
